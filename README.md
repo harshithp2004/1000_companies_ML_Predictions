@@ -16,10 +16,15 @@ Detailed Data Table: A table view that includes values such as administrative sp
 The dataset includes financial data for 1000 companies. Key columns include:
 
 R&D Spend: Investment in research and development.
+
 Administration: Administrative expenditure.
+
 Marketing Spend: Marketing expenditure.
+
 Profit: Actual profit value.
+
 Predictions: Predicted profit value by the machine learning model.
+
 State: The state where the company operates (California, Florida, New York).
 
 ## Machine Learning Model Details
