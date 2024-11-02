@@ -27,4 +27,5 @@ Evaluation: Model accuracy was measured using the R² score, which quantifies th
 Predictions: The model's predictions on test data were visualized alongside actual profits, and the predictions were added to the dataset for use in the Power BI dashboard.
 
 ## The code for ML:
-<a href
+<a href="https://github.com/harshithp2004/LokSabha_ElectionResult2024_Dashboard/blob/main/ml_integrated_LokSabha2024.py">ml_integrated_LokSabha2024</a>
+
